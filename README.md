@@ -8,4 +8,12 @@
 
 ##### Cabecera H5
 
-HelloWorldGit
+## Underline 1
+
+# Underline 2
+
+- formato _italica_ de la primare forma.
+- formato _italica_ de la segunda forma
+- formato **bold o strong** de la primara forma
+- formato **bold o strong** de la primara forma
+- formato ~~tachado~~
